@@ -1,0 +1,43 @@
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Kids Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Men Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+ERROR:root:Error msg not verified, so Assertion failed.
+INFO:root:Inside SignIn script.
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Sport Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside test suite
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Men Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Sport Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Women Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Kids Script
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+ERROR:root:Error msg not verified, so Assertion failed.
+INFO:root:Inside SignIn script.
+INFO:root:Inside TearDown Method.
+INFO:root:Inside Setup method
+INFO:root:Jabong Application Launched.
+INFO:root:Now in Women Script
+INFO:root:Inside TearDown Method.
